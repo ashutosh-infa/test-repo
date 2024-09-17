@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "e1qmMLMQxiTiCUJrMCAh6Q",
+    "name" : "ashutosh_FI",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-17T15:07:36.667Z",
+  "objectRefs" : [ ]
+}
